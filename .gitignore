@@ -1,0 +1,8 @@
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+*.dblite
+/javabot/bin
+/javabot/classes
