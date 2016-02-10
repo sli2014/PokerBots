@@ -3,6 +3,7 @@
 *.ear
 *.swp
 *.dblite
+*.dump
 /javabot/pokerbot.jar
 /javabot/bin
 /javabot/classes
